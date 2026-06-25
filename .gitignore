@@ -1,2 +1,16 @@
-# created by virtualenv automatically
-*
+# Virtual Environment
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# PyCharm
+.idea/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Operating System files
+.DS_Store
+Thumbs.db
