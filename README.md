@@ -49,4 +49,4 @@ It calculates:
 
 ### Bond Price vs Yield
 
-![Bond Price vs Yield](charts/bond_price_vs_yield.png)
+![Bond Price vs Yield](bond_price_vs_yield.png)
